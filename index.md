@@ -11,7 +11,7 @@ This Python driven scraper that scrapes list of notices. You can use it to scrap
 This is a simple tool for you to use. Apti-calc is an one stop aptitude solving webapp for all kind of aptitude questions. We have added plenty of functions that can handle almost all kind of mathematical calculation and we’ll be adding more soon!👍
 
 ### 3. [Game Arena](https://g4gamearena.herokuapp.com)
-[**Website:-** https://g4gamearena.herokuapp.com]
+[**Website:-** https://g4gamearena.herokuapp.com](https://g4gamearena.herokuapp.com)
 This site is a Game distribution channel for free. Do give it a look 👍
 
 🎊 **And Many more to come** 🎊
